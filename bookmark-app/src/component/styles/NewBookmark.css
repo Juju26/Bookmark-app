@@ -1,0 +1,12 @@
+.new_bookmark_form {
+    text-align: center;
+    margin: 0px auto;
+  }
+  .form_fields {
+    width: 150px;
+    text-align: center;
+    margin: 0px auto;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+  
